@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "modUrl": "",
+  "biomes": "",
+  "southWestCorner": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "northEastCorner": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+
+}
